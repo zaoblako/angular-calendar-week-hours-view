@@ -1,5 +1,5 @@
 import { ChangeDetectorRef, Component, EventEmitter, Inject, Input, LOCALE_ID, Output, NgModule } from '@angular/core';
-import 'rxjs/Subject';
+import 'rxjs/Subject.js';
 import { addDays, addMinutes } from 'date-fns';
 import { CalendarUtils, CalendarModule } from 'angular-calendar';
 import { validateEvents } from 'angular-calendar/modules/common/util';
