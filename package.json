@@ -1,0 +1,136 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "angular-calendar-week-hours-view",
+        "scope": null,
+        "escapedName": "angular-calendar-week-hours-view",
+        "name": "angular-calendar-week-hours-view",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/egerasimov/Developer/angular-calendar-week-hours-view"
+    ]
+  ],
+  "_from": "angular-calendar-week-hours-view@latest",
+  "_id": "angular-calendar-week-hours-view@1.0.2",
+  "_inCache": true,
+  "_location": "/angular-calendar-week-hours-view",
+  "_nodeVersion": "9.8.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/angular-calendar-week-hours-view_1.0.2_1526512409043_0.060290175600594464"
+  },
+  "_npmUser": {
+    "name": "diegofsza",
+    "email": "diegofsza@gmail.com"
+  },
+  "_npmVersion": "5.6.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "angular-calendar-week-hours-view",
+    "scope": null,
+    "escapedName": "angular-calendar-week-hours-view",
+    "name": "angular-calendar-week-hours-view",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/angular-calendar-week-hours-view/-/angular-calendar-week-hours-view-1.0.2.tgz",
+  "_shasum": "d17e50a5665d9af2402f5905a2ae113404b03486",
+  "_shrinkwrap": null,
+  "_spec": "angular-calendar-week-hours-view",
+  "_where": "/Users/egerasimov/Developer/angular-calendar-week-hours-view",
+  "author": {
+    "name": "Innqube"
+  },
+  "bugs": {
+    "url": "https://github.com/Innqube/angular-calendar-week-hours-view/issues"
+  },
+  "dependencies": {
+    "@angular/animations": "^5.0.0",
+    "@angular/common": "^5.0.0",
+    "@angular/compiler": "^5.0.0",
+    "@angular/core": "^5.0.0",
+    "@angular/forms": "^5.0.0",
+    "@angular/http": "^5.0.0",
+    "@angular/platform-browser": "^5.0.0",
+    "@angular/platform-browser-dynamic": "^5.0.0",
+    "@angular/router": "^5.0.0",
+    "core-js": "^2.4.1",
+    "rxjs": "^5.5.2",
+    "tslib": "^1.7.1",
+    "zone.js": "^0.8.14"
+  },
+  "description": "This project aims to provide an alternative view to those already provided on [Angular Calendar](https://github.com/mattlewis92/angular-calendar).",
+  "devDependencies": {
+    "@angular/cli": "1.6.0",
+    "@angular/compiler-cli": "^5.0.0",
+    "@angular/language-service": "^5.0.0",
+    "@types/jasmine": "~2.5.53",
+    "@types/jasminewd2": "~2.0.2",
+    "@types/node": "~6.0.60",
+    "angular-calendar": "^0.23.7",
+    "codelyzer": "^4.0.1",
+    "jasmine-core": "~2.6.2",
+    "jasmine-spec-reporter": "~4.1.0",
+    "karma": "~1.7.0",
+    "karma-chrome-launcher": "~2.1.1",
+    "karma-cli": "~1.0.1",
+    "karma-coverage-istanbul-reporter": "^1.2.1",
+    "karma-jasmine": "~1.1.0",
+    "karma-jasmine-html-reporter": "^0.2.2",
+    "ng-packagr": "^2.4.4",
+    "protractor": "~5.1.2",
+    "scss-bundle": "^2.1.0",
+    "ts-node": "~3.2.0",
+    "tslint": "~5.7.0",
+    "typescript": "~2.4.2"
+  },
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-xQ5BlRNBukm/gfRw4uC5SS0UBfVCgKDZ5x2s1yoW+HXC6MVH/xKyXlIndqr+9pKQMeYxU5bdKnYnAlM4XFN6UQ==",
+    "shasum": "d17e50a5665d9af2402f5905a2ae113404b03486",
+    "tarball": "https://registry.npmjs.org/angular-calendar-week-hours-view/-/angular-calendar-week-hours-view-1.0.2.tgz",
+    "fileCount": 23,
+    "unpackedSize": 478635,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJa/LsZCRA9TVsSAnZWagAAXLgP/3x1b8MxTlAufyyTsPLL\n+0hvyVE+ZmES5WYuwHGnTgDd2qUOR1FfGRMiYhhlCJDAG+abStkOC/khn1IP\nzJhzJxCTwsX7v34QNWPruE0b9VL3xbC9NerDoOTTlvZYsfh6DPO79bdxR0lK\nuvsUiSm1/nrdSNJLcm0o3LSFOefK+XxRdR+uCmxmI9WLEK9AMxKM2um9xhF0\n3eg0Zn6dMp1rFe7BRIWc/T05BWSyfNloA2PCUfuWvY19fNSQbZvanBevfc9v\nbOGlZtRLyF2IefP8kUGNv29pzFJpRviO6xhVR0Jf30B2QinABm1OeEteBSoj\nsVl7j5usEa/4ZQY9J7AHRbg6r2iEkwpHrkx8t42Q3Ly4q/Iq8+SWeV/H0ugl\nnPOXdBYV+ehSPaNTGvXWwnmIxRcLgc43+NfUfWkyWG5oqwRlH+sXkWUOr8v/\nk8TlQjtszQJnUPxQxWJonJ8E6JVifZumsnRP+56rI/t+4mCjX8gddLSAAOo9\n/HB5Z1d9bnT3J7vKxticlB5ANvWBOHIIOIuNAPfQIXGVnpj8+S30s+j2XCX+\nOun5yPJvJWfLlA3Ug40H0CPy4dKETPq4mqTm3ssiLozktFbArXBolMrfcfY1\nqJ91cnIht1yPbW2ycc4Iw3pxQjwgxN7dLDg9I8F2WgLavxvICcC7fvIQ34sM\nnQpm\r\n=jbd2\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "es2015": "esm2015/angular-calendar-week-hours-view.js",
+  "homepage": "https://github.com/Innqube/angular-calendar-week-hours-view#readme",
+  "keywords": [
+    "angular-calendar",
+    "week",
+    "week view",
+    "week hours",
+    "week schedule"
+  ],
+  "license": "MIT",
+  "main": "bundles/angular-calendar-week-hours-view.umd.js",
+  "maintainers": [
+    {
+      "name": "diegofsza",
+      "email": "diegofsza@gmail.com"
+    }
+  ],
+  "metadata": "angular-calendar-week-hours-view.metadata.json",
+  "module": "esm5/angular-calendar-week-hours-view.js",
+  "name": "angular-calendar-week-hours-view",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "angular-calendar": "^0.23.2",
+    "angular-draggable-droppable": "^2.0.0",
+    "angular-resizable-element": "^2.0.0"
+  },
+  "private": false,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "url": "git+https://github.com/Innqube/angular-calendar-week-hours-view.git"
+  },
+  "typings": "angular-calendar-week-hours-view.d.ts",
+  "version": "1.0.2"
+}
