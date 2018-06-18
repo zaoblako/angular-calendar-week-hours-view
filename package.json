@@ -51,7 +51,7 @@
   "bugs": {
     "url": "https://github.com/Innqube/angular-calendar-week-hours-view/issues"
   },
-  "dependencies": {
+  "peerDependencies": {
     "@angular/animations": "^5.0.0",
     "@angular/common": "^5.0.0",
     "@angular/compiler": "^5.0.0",
