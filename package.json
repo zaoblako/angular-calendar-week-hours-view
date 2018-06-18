@@ -68,7 +68,10 @@
     "date-fns": "^1.29.0",
     "rxjs": "^5.5.2",
     "tslib": "^1.7.1",
-    "zone.js": "^0.8.14"
+    "zone.js": "^0.8.14",
+    "angular-calendar": "^0.23.2",
+    "angular-draggable-droppable": "^2.0.0",
+    "angular-resizable-element": "^2.0.0"
   },
   "description": "This project aims to provide an alternative view to those already provided on [Angular Calendar](https://github.com/mattlewis92/angular-calendar).",
   "devDependencies": {
@@ -125,11 +128,6 @@
   "module": "esm5/angular-calendar-week-hours-view.js",
   "name": "angular-calendar-week-hours-view",
   "optionalDependencies": {},
-  "peerDependencies": {
-    "angular-calendar": "^0.23.2",
-    "angular-draggable-droppable": "^2.0.0",
-    "angular-resizable-element": "^2.0.0"
-  },
   "private": false,
   "readme": "ERROR: No README data found!",
   "repository": {
