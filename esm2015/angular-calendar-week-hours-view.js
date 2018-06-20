@@ -674,7 +674,7 @@ CalendarWeekHoursDayViewHourSegmentComponent.decorators = [
                 [class.cal-after-hour-start]="!segment.isStart"
                 [ngClass]="segment.cssClass">
                 <div class="cal-time" *ngIf="hourVisible">
-                    {{ segment.date | calendarDate:'dayViewHour':locale }}
+                    {{ segment.date | date:'HH:00' }}
                 </div>
             </div>
         </ng-template>
